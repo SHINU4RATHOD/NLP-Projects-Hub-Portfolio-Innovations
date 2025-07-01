@@ -1,0 +1,9 @@
+os                        # Standard library for operating system interactions (no installation needed)
+re                        # Standard library for regular expressions (no installation needed)
+Pandas                    # Powerful data manipulation and analysis library (install using pip: `pip install pandas`)
+Tqdm                      # Progress bar utility for iterables, enhancing script usability (install using pip: `pip install tqdm`)
+Openpyxl                  # Library for reading and writing Excel files, especially `.xlsx` format (install using pip: `pip install openpyxl`)
+Newspaper3k               # Python library for web scraping and article extraction (install using pip: `pip install newspaper3k`)
+NLTK                      # Natural Language Toolkit for text processing tasks like tokenization and stopword handling (install using pip: `pip install nltk`)
+logging                   # Standard library for logging messages and debugging (no installation needed)
+
